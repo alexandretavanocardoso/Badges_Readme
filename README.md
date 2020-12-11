@@ -104,7 +104,7 @@ Melhore seu perfil README com esses emblemas incríveis. Veja um exemplo [aqui](
 
 ![image](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white) ``` https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white ```
 
-![image](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=whit) ``` https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=whit ```
+![image](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=whit) ``` https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white ```
 
 ![image](https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white) ``` https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white ```
 
